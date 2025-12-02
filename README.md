@@ -30,7 +30,7 @@ This results in far more accurate and structured research outputs.
 - **InMemoryRunner**
 
 ### 📊 Architecture Diagram
-*(Insert diagram here)*
+![Alt text](./Untitled.png)
 
 ## 🎬 Demo
 
